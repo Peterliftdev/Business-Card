@@ -1,0 +1,26 @@
+
+.card {
+    display: flex;
+    margin: 30px auto;
+    border: 2px solid gold ;
+    border-radius: 10px;
+    background-color: aqua;
+    padding: 2px;
+    width: 640px;
+    justify-content: space-around;
+    border-bottom: gray 8px solid;
+}
+.buss {
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding-top: 35px;
+    font-size: medium;
+}
+img {
+    border: aqua;
+    border-radius: 10px;
+    padding-left: .5px;
+}
+/*CSS Inheritance, web safe fonts, font-family will give us the font-stack through which we can choose*/
+/* Margin and padding shorthands is top, right, bottom, and left */
